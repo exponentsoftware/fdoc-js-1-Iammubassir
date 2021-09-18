@@ -8,3 +8,4 @@ function cleanText(sentence) {
 
 }
 console.log(cleanText(sentence));
+// 1.c. After cleaning the text in the sentence from question number b you will get the following text. Count the number of words in this text. Don't include words with only one letter.
