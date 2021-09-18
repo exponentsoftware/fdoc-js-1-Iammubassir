@@ -13,3 +13,4 @@ function countWords(paragraph ,word1, word2){
 };
 
 console.log(countWords(paragraph,'love', 'you'));
+//1.a. Write a function which count the number of occurrence of words in a paragraph or a sentence.The function `countWords` takes a paragraph and two words as parameters. It compare  which word is most frequently occurred in the paragraph.
